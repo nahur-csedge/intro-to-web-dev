@@ -1,0 +1,35 @@
+#introduction {
+  background-color: #D5D5D5;
+}
+
+#highlight-one {
+  background-color: #A5A5A5;
+}
+
+#highlight-two {
+  background-color: #858585;
+}
+
+.introduction h1, h2 {
+font-family: "Roboto", sans-serif;
+font-weight: 900;
+font-style: normal;
+}
+
+.introduction p {
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.highlight h2, h3 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.highlight p {
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
