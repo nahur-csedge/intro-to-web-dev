@@ -39,8 +39,21 @@ font-style: normal;
   font-style: normal;
 }
 
-.highlights{
+.highlight {
   width: 60%;
-  padding: 16px;
   margin-top: 30px;
+  padding: 16px;
+}
+
+#highlight-one {
+  margin-left: 2%;
+}
+
+#highlight-two {
+  margin-left: 35%;
+}
+
+.highlight img {
+  width:80%;
+  margin-left: 10%;
 }
